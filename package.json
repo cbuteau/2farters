@@ -1,0 +1,18 @@
+{
+  "name": "spa",
+  "version": "1.0.0",
+  "description": "A SPA with drag and drop apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spa",
+    "vue.js"
+  ],
+  "author": "Christopher W Buteau <cbuteau@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.16.4"
+  }
+}
